@@ -3,14 +3,14 @@ The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or 
 
 I’ll be using the following 9 possible answers for our Magic 8-Ball:
 
-Yes - definitely.
-It is decidedly so.
-Without a doubt.
-Reply hazy, try again.
-Ask again later.
-Better not tell you now.
-My sources say no.
-Outlook not so good.
+Yes - definitely.,
+It is decidedly so.,
+Without a doubt.,
+Reply hazy, try again.,
+Ask again later.,
+Better not tell you now.,
+My sources say no.,
+Outlook not so good.,
 Very doubtful.
 
 The output of the program will have the following format:
